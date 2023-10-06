@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
- <b>PROYECTO DE ANÁLISIS DE DATOS</b>
+ <b>Proyecto de Análisis de Datos</b>
 </h1>
  
 # <h1 align="center">**`SINIESTROS VIALES EN CABA`**</h1>
@@ -15,8 +15,6 @@
 # Introducción
 
 En este informe, se presenta un análisis de datos sobre homicidios en siniestros viales ocurridos en la Ciudad Autónoma de Buenos Aires (CABA) durante el período comprendido entre 2016 y 2021. 
-El mismo se lleva a cabo como parte de un proyecto práctico en el marco del Bootcamp DATA SCIENCE de HENRY.
-Se simula el rol de **Data Analyst** y se lleva adelante un trabajo encomendado por el Observatorio de Movilidad y Seguridad Vial (OMSV), un centro de estudios adscrito a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires. 
 
 **El objetivo principal de este proyecto es proporcionar información crucial que permita a las autoridades locales tomar medidas efectivas para reducir la cantidad de víctimas fatales en siniestros viales en la ciudad.**
 
@@ -24,7 +22,7 @@ Se simula el rol de **Data Analyst** y se lleva adelante un trabajo encomendado 
 
 Los siniestros viales, también conocidos como accidentes de tráfico o accidentes de tránsito, son eventos que involucran vehículos en las vías públicas y pueden tener diversas causas, como colisiones entre automóviles, motocicletas, bicicletas o peatones, atropellos, choques con objetos fijos o caídas de vehículos. Estos incidentes pueden tener consecuencias que van desde daños materiales hasta lesiones graves o fatales para los involucrados.
 
-La Ciudad Autónoma de Buenos Aires, que se ubica en la provincia de Buenos Aires en Argentina, no es la excepción a esta problemática, dado el alto volumen de tráfico y la densidad poblacional. Estos incidentes pueden tener un impacto significativo en la seguridad de los residentes y visitantes de la ciudad, así como en la infraestructura vial y los servicios de emergencia.
+La Ciudad Autónoma de Buenos Aires, no es la excepción a esta problemática, dado el alto volumen de tráfico y la densidad poblacional. Estos incidentes pueden tener un impacto significativo en la seguridad de los residentes y visitantes de la ciudad, así como en la infraestructura vial y los servicios de emergencia.
 
 # Datos
 
@@ -55,14 +53,6 @@ En primer lugar, se realizó un proceso de Extracción, Transformación y Carga 
 En segundo lugar, se realizó un Análisis Exploratorio de Datos (EDA) exhaustivo para encontrar patrones que permitieran generar información que ayudara a las autoridades locales a tomar medidas efectivas para disminuir la cantidad de víctimas fatales en siniestros viales.
 
 El EDA incluyó una serie de análisis estadísticos de variables numéricas y la creación de diversas visualizaciones gráficas con el objetivo de comprender en profundidad el impacto de las diferentes variables en los homicidios en siniestros viales. Esta etapa de análisis tenía como finalidad generar posibles insights que luego podrían ser profundizados en un dashboard interactivo.
-
-Durante el EDA, se llevaron a cabo las siguientes acciones:
-
-- Análisis estadístico de variables numéricas, como la edad de las víctimas, para identificar tendencias y distribuciones relevantes.
-- Visualizaciones gráficas, que incluyeron gráficos de barras, histogramas, gráficos de dispersión y mapas de calor, entre otros, para representar la relación entre variables y revelar patrones o correlaciones.
-- Segmentación de datos para analizar cómo diferentes grupos de víctimas o situaciones podían influir en la ocurrencia de homicidios en siniestros viales.
-- Identificación de tendencias temporales, como la variación de homicidios a lo largo de los años, meses, días de la semana y franjas horarias.
-- Análisis de características específicas de los incidentes, como el tipo de calle, la comuna en la que ocurrieron y la participación de diferentes tipos de usuarios de la vía.
 
 Estos análisis proporcionaron una base sólida para comprender la dinámica de los homicidios en siniestros viales en la Ciudad Autónoma de Buenos Aires y establecer áreas clave en las que las autoridades locales podrían enfocarse para implementar medidas preventivas y de seguridad vial. Los insights obtenidos durante esta etapa se utilizaron para diseñar un dashboard interactivo que permitiera una exploración más detallada de los datos y la toma de decisiones informadas.
 
