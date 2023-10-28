@@ -1,5 +1,3 @@
-
-
 <h1 align='center'>
  <b>Proyecto de Análisis de Datos</b>
 </h1>
@@ -55,6 +53,8 @@ En segundo lugar, se realizó un Análisis Exploratorio de Datos (EDA) exhaustiv
 El EDA incluyó una serie de análisis estadísticos de variables numéricas y la creación de diversas visualizaciones gráficas con el objetivo de comprender en profundidad el impacto de las diferentes variables en los homicidios en siniestros viales. Esta etapa de análisis tenía como finalidad generar posibles insights que luego podrían ser profundizados en un dashboard interactivo.
 
 Estos análisis proporcionaron una base sólida para comprender la dinámica de los homicidios en siniestros viales en la Ciudad Autónoma de Buenos Aires y establecer áreas clave en las que las autoridades locales podrían enfocarse para implementar medidas preventivas y de seguridad vial. Los insights obtenidos durante esta etapa se utilizaron para diseñar un dashboard interactivo que permitiera una exploración más detallada de los datos y la toma de decisiones informadas.
+
+Acceda [AQUÍ](EDA.ipynb) al archivo completo.
 
 # Análisis de los Datos
 
